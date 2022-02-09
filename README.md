@@ -1,6 +1,7 @@
 # HelloGit
+
 GitHub入門
 
-## Description　はじめてのGitHub
+# Description
 
-## Author ryu-461
+はじめてのGitHub
